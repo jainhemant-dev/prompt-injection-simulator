@@ -1,6 +1,8 @@
 # Prompt Injection & Jailbreak Defense Simulator
 
 ### Note - To test prompt injection, you must have an OpenAI API key. You will get some prompt end of page.
+<img src="./@proof_images/Q3.3 Prompt Injection & Jailbreak Defense Simulator.png"/>
+<img src="./@proof_images/Q3.4 Prompt Injection & Jailbreak Defense Simulator.png"/>
 
 ## Overview
 This project is a test harness for evaluating and demonstrating prompt injection vulnerabilities in AI systems. It provides a platform to test various prompt injection attacks against a system prompt and document their effectiveness, while also implementing and testing defense mechanisms.
